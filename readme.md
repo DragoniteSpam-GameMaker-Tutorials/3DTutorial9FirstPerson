@@ -4,4 +4,4 @@ Now that the world is rendering in a satisfactory manner, it's time to start mov
 
 Video tutorial:
 
-**[Pending]**
+[![YouTube](https://i.ytimg.com/vi/rrx6EW2tUlM/hqdefault.jpg)](https://www.youtube.com/watch?v=rrx6EW2tUlM)
