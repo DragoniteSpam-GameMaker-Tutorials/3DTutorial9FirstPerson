@@ -1,8 +1,13 @@
 {
-    "id": "3bffe29d-a3c0-48f2-a5ca-0d78edff73ea",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "vertex_add_point",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "$GMScript":"v1",
+  "%Name":"vertex_add_point",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"vertex_add_point",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

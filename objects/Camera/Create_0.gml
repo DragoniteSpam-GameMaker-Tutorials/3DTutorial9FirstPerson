@@ -43,4 +43,4 @@ for (var i = 0; i < room_width; i += s) {
 vertex_end(vbuffer);
 #endregion
 
-instance_create_depth(0, 0, 0, Player);
+instance_create_depth(x, y, 0, Player);
